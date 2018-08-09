@@ -1,24 +1,23 @@
 # DEVCAMP PORTFOLIO APP
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a ruby on rails 5 application that allows users to create their own portfolios.
 
-Things you may want to cover:
+## Features
 
-* Ruby version
+- Real-Tiem chat engine for comments
 
-* System dependencies
+- Blog Portfolio 
 
-* Configuration
+- Drag and Drop interface
 
-* Database creation
+## Code Example
 
-* Database initialization
+```ruby
+def my_great_method
+	puts "here it is"
+end
+```
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```javascript
+alert("Hi there!");
+```
