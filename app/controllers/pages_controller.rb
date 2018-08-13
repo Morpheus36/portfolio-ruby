@@ -1,6 +1,6 @@
 class PagesController < ApplicationController
   def home
-  	@posts = Blog.all
+  	@posts = Blogs.inspect
   end
 
   def about
